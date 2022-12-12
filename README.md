@@ -25,7 +25,7 @@ Three database Tables (with columns) named:
     - region
     - income_group
 
-- ability to run SQL queries on a database:
+Ability to run SQL queries on a database:
   - PostgresSQL, for example
 
 
