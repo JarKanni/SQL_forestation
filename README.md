@@ -9,17 +9,17 @@ SQL analysis queries on three .csv files
 
 # Requirements
 Three database Tables (with columns) named:
-## forest_area
+- forest_area
     - country_code
     - country_name
     - year
     - forest_area_sqkm
-## land_area
+- land_area
     - country_code
     - country_name
     - year
     - total_area_sq_mi
-## regions
+- regions
     - country_name
     - country_code
     - region
