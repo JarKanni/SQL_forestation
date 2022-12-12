@@ -30,9 +30,9 @@ Ability to run SQL queries on a database:
 
 
 # Installation
-Install database server such as: <a href="https://www.postgresql.org/download/">PostgresSQL</a>
-Load three .csv files into database tables.
-Run SQL queries and discover what's there!
+- Install database server such as: <a href="https://www.postgresql.org/download/">PostgresSQL</a>
+- Load three .csv files into database tables.
+- Run SQL queries and discover what's there!
 
 
 # Contact Information
