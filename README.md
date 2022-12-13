@@ -4,7 +4,7 @@ SQL analysis queries on three .csv files
 # Introduction
 - From three .csv files, loaded them into database tables.
 - Created "forestation" VIEW with custom aggrigated columns joining three tables.
-- Multiple Statistical SQL queries built including utiltizing JOINs and aggrigations
+- Multiple Statistical SQL queries built including utiltizing JOINs and aggregations
 
 
 # Requirements
