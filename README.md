@@ -37,5 +37,7 @@ Ability to run SQL queries on a database:
 
 # Contact Information
 **Name:** Jared R. Kannianen
+
 **Organization:** Masterschool - Data Analyst
+
 **Email:** jarkanni@campus.masterschool.com
