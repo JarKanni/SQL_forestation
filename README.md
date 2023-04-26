@@ -1,10 +1,11 @@
 # SQL_forestation
-SQL analysis queries on three .csv files
+Data analysis using SQL queries on three .csv files loaded into Postgres.
+Utitlizing 'forestation' VIEW, the analysis split between the Global, Regional, and Country levels to look at total forest coverage and change between 1990 and 2016.
 
-# Introduction
-- From three .csv files, loaded them into database tables.
-- Created "forestation" VIEW with custom aggrigated columns joining three tables.
-- Multiple Statistical SQL queries built including utiltizing JOINs and aggregations
+# Description
+- Loaded three .csv files into Postgres database tables
+- Created "forestation" VIEW with custom aggrigated columns joining three tables using SQL
+- Explored multiple statistical SQL queries utiltizing JOINs and aggregations to drill deep into the data
 
 
 # Requirements
